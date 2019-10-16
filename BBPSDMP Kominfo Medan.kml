@@ -57,7 +57,7 @@
 		</Style>
 		<Placemark id="KabupatenDeliSerdang">
 			<name>Kabupaten Deli Serdang</name>
-			<description><![CDATA[<img style="max-width:400px;" src="https://raw.githubusercontent.com/olrito/tes/master/BBPSDMP%20Kominfo%20Medan.kml"><br><br>
+			<description><<img style="max-width:400px;" src="https://raw.githubusercontent.com/olrito/tes/master/BBPSDMP%20Kominfo%20Medan.kml"><br><br>
 Kabupaten Deli Serdang
 <table>
 <tr>
@@ -107,7 +107,7 @@ Kabupaten Deli Serdang
 <td>Techinical Support</td>
 <td>: 8 (13,3%)</td>
 </tr>
-</table>]]></description>
+</table>></description>
 			<LookAt>
 				<longitude>98.68582099999998</longitude>
 				<latitude>3.596556099999999</latitude>
