@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BBPSDMP Kominfo Medan.kml</name>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>BBPSDMP Kominfo Medan</name>
+		<open>1</open>
+		<LookAt>
+			<longitude>99.61290655547154</longitude>
+			<latitude>2.983769094008321</latitude>
+			<altitude>0</altitude>
+			<heading>2.644712888317594e-008</heading>
+			<tilt>0</tilt>
+			<range>1163.896397280955</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark id="KabupatenDeliSerdang">
+			<name>Kabupaten Deli Serdang</name>
+			<description><![CDATA[<img style="max-width:400px;" src="https://bbpsdmp-medan.kominfo.go.id/wp-content/uploads/2019/03/SKKNI-2019-3.jpg"><br><br>
+Kabupaten Deli Serdang
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 26 - 30 Maret 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang (Laki-Laki : 42 ; Perempuan :18)</td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: Hotel Sakura Medan</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Jl. Prof. HM. Yamin Sh No. 41</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: 48%</td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: 11 (18,3%)</td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: 11 (18,3%)</td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: 30 (50%)</td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: 8 (13,3%)</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>98.68582099999998</longitude>
+				<latitude>3.596556099999999</latitude>
+				<altitude>0</altitude>
+				<heading>7.156248033292914e-015</heading>
+				<tilt>0</tilt>
+				<range>1107.404587439987</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>98.68582099999996,3.596556099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KotaTebingTinggi">
+			<name>Kota Tebing Tinggi</name>
+			<description><![CDATA[<img style="max-width:500px;" src="https://bbpsdmp-medan.kominfo.go.id/wp-content/uploads/2019/05/SKKNI-Tebing-Tinggi-3.jpg"><br><br>
+Kota Tebing Tinggi
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 9 - 13 April</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 59 orang (Laki-Laki : 23 ; Perempuan : 36)</td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: Hotel Malibou</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>:  Jl. Jend Sudirman No. 401</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: 51%</td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: 2 (3,4%)</td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: 26 (44,1%)</td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: 13 (22%)</td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: 18 (30,5%)</td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>99.16543323882466</longitude>
+				<latitude>3.34237185172475</latitude>
+				<altitude>0</altitude>
+				<heading>-7.991471565882124e-006</heading>
+				<tilt>28.81722896212252</tilt>
+				<range>126.5218413206437</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>99.16538598503411,3.342378581883029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KabupatenAcehBesar">
+			<name>Kabupaten Aceh Besar</name>
+			<description><![CDATA[<img style="max-width:500px;" src="C:/Users/ROZI/AppData/LocalLow/Google/GoogleEarth/SKKNI-Aceh-Besar.jpg"><br><br>
+Kabupaten Aceh Besar
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 23 - 27 April 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 59 orang (Laki-Laki : 45 ; Perempuan :14)</td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: Hotel Permata Hati</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Jl. Rel Kereta Api No.2, Kec. Ingin Jaya, Aceh Besar</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: 49%</td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>95.35276580000001</longitude>
+				<latitude>5.5321564</latitude>
+				<altitude>0</altitude>
+				<heading>-7.156248033292914e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000477</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>95.35276580000003,5.5321564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KabupatenAcehTengah">
+			<name>Kabupaten Aceh Tengah</name>
+			<description><![CDATA[<img style="max-width:500px;" src="C:/Users/ROZI/AppData/LocalLow/Google/GoogleEarth/aceh.jpeg"><br><br>
+Kabupaten Aceh Tengah
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 25 - 29 Juni</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang (Laki-Laki : 46 ; Perempuan : 14)</td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>:  Hotel Bayu Hill</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Jl. Lebe Kader No. 398B, Kab. Aceh Tengah</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: 61%</td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>96.84700339999998</longitude>
+				<latitude>4.623237100000001</latitude>
+				<altitude>0</altitude>
+				<heading>2.286023677301903e-015</heading>
+				<tilt>0</tilt>
+				<range>1105.980703972247</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>96.84700339999998,4.623237100000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KabupatenAsahan">
+			<name>Kabupaten Asahan</name>
+			<description><![CDATA[<img style="max-width:500px;" src="C:/Users/ROZI/AppData/LocalLow/Google/GoogleEarth/asahan.jpg"><br><br>
+Kabupaten Asahan
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 9 - 13 Juli 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang (Laki-Laki : 42 ; Perempuan : 18)</td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: Hotel Sabty Garden</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Jl. Diponegoro No. 230A, Kisaran, Kab. Asahan</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: 91%</td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>99.6129084</longitude>
+				<latitude>2.983768</latitude>
+				<altitude>0</altitude>
+				<heading>-1.689669674527493e-015</heading>
+				<tilt>0</tilt>
+				<range>1108.085937912687</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>99.61290840000001,2.983768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KabupatenNiasSelatan">
+			<name>Kabupaten Nias Selatan</name>
+			<description><![CDATA[<img style="max-width:385px;" src="C:/Users/ROZI/AppData/LocalLow/Google/GoogleEarth/nias.jpg"><br><br>
+Kabupaten Nias Selatan
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 20 - 24 Agustus 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: SEM HOTEL</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Jl. Jend. Ahmad Yani, Hilitobara, Tlk. Dalam, Kab. Nias Selatan</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>97.81974469999999</longitude>
+				<latitude>0.5604922999999999</latitude>
+				<altitude>0</altitude>
+				<heading>1.914544829740343e-014</heading>
+				<tilt>0</tilt>
+				<range>1109.537631540317</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>97.81974469999997,0.5604923000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="BukitTinggi">
+			<name>Bukit Tinggi</name>
+			<description><![CDATA[<img style="max-width:500px;" src="C:/Users/ROZI/AppData/LocalLow/Google/GoogleEarth/bukit tinggi.jpg"><br><br>
+Bukit Tinggi
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 27 - 31 Agustus 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: Royal Denai Hotel</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Jl. Dr. Abdul Rivai No. 26, Benteng Ps. Atas, Kec. Guguk Panjang, Kota Bukit Tinggi</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>100.367106</longitude>
+				<latitude>-0.2995638</latitude>
+				<altitude>0</altitude>
+				<heading>1.416340756589222e-015</heading>
+				<tilt>0</tilt>
+				<range>1000.000000000799</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>100.367106,-0.2995637999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KabupatenPadangLawasUtara">
+			<name>Kabupaten Padang Lawas Utara</name>
+			<description><![CDATA[<img style="max-width:420px;" src="C:/Users/ROZI/AppData/LocalLow/Google/GoogleEarth/padang lawas.jpg"><br><br>
+Kabupaten Padang Lawas Utara
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 24 - 28 September 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: Aula Kantor Bupati Padang Lawas Utara</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Ps. Gn. Tua, Padang Bolak, Kab. Padang Lawas Utara</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>99.61970729999995</longitude>
+				<latitude>1.4945324</latitude>
+				<altitude>0</altitude>
+				<heading>-4.820528189093143e-015</heading>
+				<tilt>0</tilt>
+				<range>1109.212251936412</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>99.61970729999996,1.4945324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KotaTarakan">
+			<name>Kota Tarakan</name>
+			<description><![CDATA[<img style="max-width:500px;" src="C:/Users/ROZI/AppData/LocalLow/Google/GoogleEarth/SKKNI-Tarakan.jpeg"><br><br>
+Kota Tarakan
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 10 - 14 September 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: Lotus Panaya Hotel</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Jl. Mulawarman No.2, Karang Anyar, Tarakan Bar., Kota Tarakan, Kalimantan Utara</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>117.5820106</longitude>
+				<latitude>3.311901000000001</latitude>
+				<altitude>0</altitude>
+				<heading>4.174478019420866e-015</heading>
+				<tilt>0</tilt>
+				<range>1107.735529096061</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>117.5820106,3.311901000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KotaBatam">
+			<name>Kota Batam</name>
+			<description><![CDATA[Kota Batam
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 17 - 21 September 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: Hotel 89 Batam</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Jl. Pembangunan Baloi Permai, Batu Selicin, Kec. Lubuk Baja, Kota Batam, Kepulauan Riau 29444</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>104.0083003</longitude>
+				<latitude>1.1374709</latitude>
+				<altitude>0</altitude>
+				<heading>1.550520407213464e-014</heading>
+				<tilt>0</tilt>
+				<range>1109.370770206999</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>104.0083003,1.1374709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KotaBinjai">
+			<name>Kota Binjai</name>
+			<description><![CDATA[Kota Binjai
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 8 - 12 Oktober 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: SMK Tunas Pelita Binjai</td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: Jl. Perintis Kemerdekaan, Kebun Lada, Kec. Binjai Utara, Kota Binjai</td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>98.494265</longitude>
+				<latitude>3.628333</latitude>
+				<altitude>0</altitude>
+				<heading>1.699608907907067e-014</heading>
+				<tilt>0</tilt>
+				<range>1107.365653124489</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>98.494265,3.628333000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KabupatenSiak">
+			<name>Kabupaten Siak</name>
+			<description><![CDATA[Kabupaten Siak
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 15 - 19 Oktober 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>101.8421530778777</longitude>
+				<latitude>0.7941296313653256</latitude>
+				<altitude>0</altitude>
+				<heading>0.0006249790497266717</heading>
+				<tilt>0</tilt>
+				<range>47796.28835996593</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>101.7946112912004,0.8083466102917047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KabupatenAcehUtara">
+			<name>Kabupaten Aceh Utara</name>
+			<description><![CDATA[Kabupaten Aceh Utara
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 22 - 26 Oktober 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>97.2221421</longitude>
+				<latitude>4.9786331</latitude>
+				<altitude>0</altitude>
+				<heading>-3.677516350442191e-015</heading>
+				<tilt>0</tilt>
+				<range>141282.7108735385</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>97.2221421,4.978633099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KabupatenLabuhanBatuUtara">
+			<name>Kabupaten Labuhan Batu Utara</name>
+			<description><![CDATA[Kabupaten Labuhan Batu Utara
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 22 Oktober - 2 November 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>99.8124935</longitude>
+				<latitude>2.346563800000001</latitude>
+				<altitude>0</altitude>
+				<heading>3.578124016646457e-015</heading>
+				<tilt>0</tilt>
+				<range>141693.3319858358</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>99.8124935,2.346563800000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KotaLangsa">
+			<name>Kota Langsa</name>
+			<description><![CDATA[Kota Langsa
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 5 - 9 November 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>97.97563430000001</longitude>
+				<latitude>4.4725348</latitude>
+				<altitude>0</altitude>
+				<heading>1.043619504855216e-014</heading>
+				<tilt>0</tilt>
+				<range>17695.53363656907</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>97.97563430000001,4.4725348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="KabupatenKetapang">
+			<name>Kabupaten Ketapang</name>
+			<description><![CDATA[Kabupaten Ketapang
+<table>
+<tr>
+<td>Tanggal	</td>
+<td>: 12 - 16 Oktober 2019</td>
+</tr>
+
+<tr>
+<td>Peserta</td>
+<td>: 60 orang </td>
+</tr>
+
+<tr>
+<td>Tempat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Alamat	</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Kelulusan	</td>
+<td>: </td>
+</tr>
+</table>
+
+<br>Kompetensi
+<table>
+<tr>
+<td>Programming</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Networking</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Graphic Design</td>
+<td>: </td>
+</tr>
+
+<tr>
+<td>Techinical Support</td>
+<td>: </td>
+</tr>
+</table>]]></description>
+			<LookAt>
+				<longitude>110.5215459</longitude>
+				<latitude>-1.5697615</latitude>
+				<altitude>0</altitude>
+				<heading>5.665363026356889e-015</heading>
+				<tilt>0</tilt>
+				<range>564458.2520383165</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.5215459,-1.5697615,0</coordinates>
+			</Point>
+		</Placemark>
+		<gx:Tour>
+			<name>BBPSDMP Kominfo</name>
+			<gx:Playlist>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>98.68582099999998</longitude>
+						<latitude>3.596556099999999</latitude>
+						<altitude>0</altitude>
+						<heading>7.156248033292914e-015</heading>
+						<tilt>0</tilt>
+						<range>1107.404587439987</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenDeliSerdang"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenDeliSerdang"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>99.16543323882466</longitude>
+						<latitude>3.34237185172475</latitude>
+						<altitude>0</altitude>
+						<heading>-7.991471565882124e-006</heading>
+						<tilt>28.81722896212252</tilt>
+						<range>126.5218413206437</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaTebingTinggi"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaTebingTinggi"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>95.35276580000001</longitude>
+						<latitude>5.5321564</latitude>
+						<altitude>0</altitude>
+						<heading>-7.156248033292914e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000477</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehBesar"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehBesar"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>96.84700339999998</longitude>
+						<latitude>4.623237100000001</latitude>
+						<altitude>0</altitude>
+						<heading>2.286023677301903e-015</heading>
+						<tilt>0</tilt>
+						<range>1105.980703972247</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehTengah"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehTengah"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>99.6129084</longitude>
+						<latitude>2.983768</latitude>
+						<altitude>0</altitude>
+						<heading>-1.689669674527493e-015</heading>
+						<tilt>0</tilt>
+						<range>1108.085937912687</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAsahan"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAsahan"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>97.81974469999999</longitude>
+						<latitude>0.5604922999999999</latitude>
+						<altitude>0</altitude>
+						<heading>1.914544829740343e-014</heading>
+						<tilt>0</tilt>
+						<range>1109.537631540317</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenNiasSelatan"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenNiasSelatan"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>100.367106</longitude>
+						<latitude>-0.2995638</latitude>
+						<altitude>0</altitude>
+						<heading>1.416340756589222e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000799</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="BukitTinggi"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="BukitTinggi"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>99.61970729999995</longitude>
+						<latitude>1.4945324</latitude>
+						<altitude>0</altitude>
+						<heading>-4.820528189093143e-015</heading>
+						<tilt>0</tilt>
+						<range>1109.212251936412</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenPadangLawasUtara"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenPadangLawasUtara"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>117.5820106</longitude>
+						<latitude>3.311901000000001</latitude>
+						<altitude>0</altitude>
+						<heading>4.174478019420866e-015</heading>
+						<tilt>0</tilt>
+						<range>1107.735529096061</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaTarakan"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaTarakan"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>104.0083003</longitude>
+						<latitude>1.1374709</latitude>
+						<altitude>0</altitude>
+						<heading>1.550520407213464e-014</heading>
+						<tilt>0</tilt>
+						<range>1109.370770206999</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaBatam"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaBatam"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>98.494265</longitude>
+						<latitude>3.628333</latitude>
+						<altitude>0</altitude>
+						<heading>1.699608907907067e-014</heading>
+						<tilt>0</tilt>
+						<range>1107.365653124489</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaBinjai"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaBinjai"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>101.8421530778777</longitude>
+						<latitude>0.7941296313653256</latitude>
+						<altitude>0</altitude>
+						<heading>0.0006249790497266717</heading>
+						<tilt>0</tilt>
+						<range>47796.28835996593</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenSiak"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenSiak"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>97.2221421</longitude>
+						<latitude>4.9786331</latitude>
+						<altitude>0</altitude>
+						<heading>-3.677516350442191e-015</heading>
+						<tilt>0</tilt>
+						<range>141282.7108735385</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehUtara"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehUtara"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>99.8124935</longitude>
+						<latitude>2.346563800000001</latitude>
+						<altitude>0</altitude>
+						<heading>3.578124016646457e-015</heading>
+						<tilt>0</tilt>
+						<range>141693.3319858358</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenLabuhanBatuUtara"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenLabuhanBatuUtara"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>97.97563430000001</longitude>
+						<latitude>4.4725348</latitude>
+						<altitude>0</altitude>
+						<heading>1.043619504855216e-014</heading>
+						<tilt>0</tilt>
+						<range>17695.53363656907</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaLangsa"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaLangsa"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>15</gx:duration>
+					<LookAt>
+						<longitude>110.5215459</longitude>
+						<latitude>-1.5697615</latitude>
+						<altitude>0</altitude>
+						<heading>5.665363026356889e-015</heading>
+						<tilt>0</tilt>
+						<range>564458.2520383165</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenKetapang"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>10</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenKetapang"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+			</gx:Playlist>
+		</gx:Tour>
+		<gx:Tour>
+			<name>New BBPSDMP Kominfo Medan</name>
+			<gx:Playlist>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>98.68582099999998</longitude>
+						<latitude>3.596556099999999</latitude>
+						<altitude>0</altitude>
+						<heading>7.156248033292914e-015</heading>
+						<tilt>0</tilt>
+						<range>1107.404587439987</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenDeliSerdang"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenDeliSerdang"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>99.16543323882466</longitude>
+						<latitude>3.34237185172475</latitude>
+						<altitude>0</altitude>
+						<heading>-7.991471565882124e-006</heading>
+						<tilt>28.81722896212252</tilt>
+						<range>126.5218413206437</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaTebingTinggi"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaTebingTinggi"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>95.35276580000001</longitude>
+						<latitude>5.5321564</latitude>
+						<altitude>0</altitude>
+						<heading>-7.156248033292914e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000477</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehBesar"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehBesar"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>96.84700339999998</longitude>
+						<latitude>4.623237100000001</latitude>
+						<altitude>0</altitude>
+						<heading>2.286023677301903e-015</heading>
+						<tilt>0</tilt>
+						<range>1105.980703972247</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehTengah"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehTengah"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>99.6129084</longitude>
+						<latitude>2.983768</latitude>
+						<altitude>0</altitude>
+						<heading>-1.689669674527493e-015</heading>
+						<tilt>0</tilt>
+						<range>1108.085937912687</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAsahan"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAsahan"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>97.81974469999999</longitude>
+						<latitude>0.5604922999999999</latitude>
+						<altitude>0</altitude>
+						<heading>1.914544829740343e-014</heading>
+						<tilt>0</tilt>
+						<range>1109.537631540317</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenNiasSelatan"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenNiasSelatan"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>100.367106</longitude>
+						<latitude>-0.2995638</latitude>
+						<altitude>0</altitude>
+						<heading>1.416340756589222e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000799</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="BukitTinggi"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="BukitTinggi"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>99.61970729999995</longitude>
+						<latitude>1.4945324</latitude>
+						<altitude>0</altitude>
+						<heading>-4.820528189093143e-015</heading>
+						<tilt>0</tilt>
+						<range>1109.212251936412</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenPadangLawasUtara"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenPadangLawasUtara"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>117.5820106</longitude>
+						<latitude>3.311901000000001</latitude>
+						<altitude>0</altitude>
+						<heading>4.174478019420866e-015</heading>
+						<tilt>0</tilt>
+						<range>1107.735529096061</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaTarakan"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaTarakan"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>104.0083003</longitude>
+						<latitude>1.1374709</latitude>
+						<altitude>0</altitude>
+						<heading>1.550520407213464e-014</heading>
+						<tilt>0</tilt>
+						<range>1109.370770206999</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaBatam"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaBatam"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>98.494265</longitude>
+						<latitude>3.628333</latitude>
+						<altitude>0</altitude>
+						<heading>1.699608907907067e-014</heading>
+						<tilt>0</tilt>
+						<range>1107.365653124489</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaBinjai"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaBinjai"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>101.8421530778777</longitude>
+						<latitude>0.7941296313653256</latitude>
+						<altitude>0</altitude>
+						<heading>0.0006249790497266717</heading>
+						<tilt>0</tilt>
+						<range>47796.28835996593</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenSiak"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenSiak"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>97.2221421</longitude>
+						<latitude>4.9786331</latitude>
+						<altitude>0</altitude>
+						<heading>-3.677516350442191e-015</heading>
+						<tilt>0</tilt>
+						<range>141282.7108735385</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehUtara"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenAcehUtara"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>99.8124935</longitude>
+						<latitude>2.346563800000001</latitude>
+						<altitude>0</altitude>
+						<heading>3.578124016646457e-015</heading>
+						<tilt>0</tilt>
+						<range>141693.3319858358</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenLabuhanBatuUtara"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenLabuhanBatuUtara"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>97.97563430000001</longitude>
+						<latitude>4.4725348</latitude>
+						<altitude>0</altitude>
+						<heading>1.043619504855216e-014</heading>
+						<tilt>0</tilt>
+						<range>17695.53363656907</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaLangsa"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KotaLangsa"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:FlyTo>
+					<gx:duration>20</gx:duration>
+					<LookAt>
+						<longitude>110.5215459</longitude>
+						<latitude>-1.5697615</latitude>
+						<altitude>0</altitude>
+						<heading>5.665363026356889e-015</heading>
+						<tilt>0</tilt>
+						<range>564458.2520383165</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+				</gx:FlyTo>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenKetapang"><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+				<gx:Wait><gx:duration>25</gx:duration>
+</gx:Wait>
+				<gx:AnimatedUpdate>
+					<Update>
+						<targetHref></targetHref>
+						<Change><Placemark targetId="KabupatenKetapang"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change>
+					</Update>
+				</gx:AnimatedUpdate>
+			</gx:Playlist>
+		</gx:Tour>
+	</Folder>
+</Document>
+</kml>
